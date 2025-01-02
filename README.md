@@ -2,12 +2,12 @@
 
 Simple router which renders components based on paths.
 
-* Supports prefix via `prefixPath` options.
-* Blank route is a fallback route.
+- Supports prefix via `prefixPath` options.
+- Blank route is a fallback route.
 
 Example usage:
 
-``` 
+```
 <script lang="ts">
   import Router from '@activatedio/svelte-router-lite';
   import Page1 from './pages/page1/Page.svelte';
@@ -36,4 +36,3 @@ Example usage:
   </div>
 </main>
 ```
-
