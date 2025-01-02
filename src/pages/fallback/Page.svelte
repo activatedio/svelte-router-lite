@@ -1,1 +1,1 @@
-<p>Fallback Page</p>
+<h1>Fallback Page</h1>
