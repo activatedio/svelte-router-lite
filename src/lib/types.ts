@@ -1,10 +1,10 @@
-import * as svelte from "svelte";
+import * as svelte from 'svelte';
 
 export interface IRouteDefinition {
-    path: string;
-    component: svelte.Component
+	path: string;
+	component: svelte.Component;
 }
 
 export interface IRouterOptions {
-    pathPrefix?: string;
+	pathPrefix?: string;
 }
