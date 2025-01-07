@@ -1,7 +1,7 @@
 {
 	"name": "@activatedio/svelte-router-lite",
 	"version": "0.2.0",
-	"repository": "github:activatedio/svelete-router-lite",
+	"repository": "github:activatedio/svelte-router-lite",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
